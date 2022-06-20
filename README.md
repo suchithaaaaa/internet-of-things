@@ -16,7 +16,7 @@ https://wokwi.com/projects/334434595516711506
   https://wokwi.com/projects/334976724538229330
   
   **  servo motor using potentiometer**
-  https://wokwi.com/projects/33497972493045000
+  https://wokwi.com/projects/334979724930450003
   
   **   button servo motor**
   https://wokwi.com/projects/334980785848189523

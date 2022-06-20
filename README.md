@@ -21,3 +21,6 @@ https://wokwi.com/projects/334434595516711506
   **   botton servo motor**
   https://wokwi.com/projects/334980785848189523
   
+  **  ultrasonic sensor by servo motor**
+  https://wokwi.com/projects/334982050944647763
+  

@@ -15,7 +15,7 @@ https://wokwi.com/projects/334434595516711506
   **  servo motor**
   https://wokwi.com/projects/334976724538229330
   
-  **  servo meter using potentiometer**
+  **  servo motor using potentiometer**
   https://wokwi.com/projects/33497972493045000
   
   **   botton servo motor**

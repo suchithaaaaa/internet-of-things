@@ -11,3 +11,7 @@ https://wokwi.com/projects/334434595516711506
  
   ultrasonic sensor
   https://wokwi.com/projects/334439407312437842
+  
+  **  servo motor**
+  https://wokwi.com/projects/334976724538229330
+  

@@ -30,3 +30,6 @@ https://wokwi.com/projects/334978058200023635
   **   buzzer with button**
   https://wokwi.com/projects/335069682709037651
   
+  **  buzzer with ultrasonic sensor**
+  https://wokwi.com/projects/335072835140584019
+  

@@ -33,3 +33,6 @@ https://wokwi.com/projects/334978058200023635
   **  buzzer with ultrasonic sensor**
   https://wokwi.com/projects/335072835140584019
   
+  buzzer with different sounds
+https://wokwi.com/projects/335066652092662356
+  

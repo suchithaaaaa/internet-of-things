@@ -27,7 +27,7 @@ https://wokwi.com/projects/334978058200023635
   **  buzzer**
   https://wokwi.com/projects/335067073514308180
   
-  **   buzzer with button**
+  **   buzzer with push button**
   https://wokwi.com/projects/335069682709037651
   
   **  buzzer with ultrasonic sensor**

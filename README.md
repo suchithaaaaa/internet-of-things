@@ -24,3 +24,6 @@ https://wokwi.com/projects/334434595516711506
   **  ultrasonic sensor by servo motor**
   https://wokwi.com/projects/334982050944647763
   
+  **  buzzer**
+  https://wokwi.com/projects/335067073514308180
+  

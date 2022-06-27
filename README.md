@@ -6,16 +6,18 @@ https://wokwi.com/projects/333797944251646547
 
 tempature & humadity sensor :https://wokwi.com/projects/334347223081943635
 INFROMATION
-
 https://arduinogetstarted.com/tutorials/arduino-temperature-humidity-sensor
 
 ulaTRA SONIC
 :https://wokwi.com/projects/334343126477963859
 INFROMATION https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
+
 6.PIR
 https://wokwi.com/projects/334345672871379538
 INFROMATION
 https://create.arduino.cc/projecthub/biharilifehacker/arduino-with-pir-motion-sensor-fd540a
+
+
 7.IR:https://wokwi.com/projects/334347798007775826
 
 LED blink

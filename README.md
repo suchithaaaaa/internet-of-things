@@ -60,6 +60,5 @@ https://wokwi.com/projects/334978058200023635
   19.buzzer with different sounds
 https://wokwi.com/projects/335066652092662356
 
-20.buzzer with uv
-https://wokwi.com/projects/335613237736243794
-  
+20.buzzer with ultrasonic for 20cm
+https://wokwi.com/projects/335613396042908243  

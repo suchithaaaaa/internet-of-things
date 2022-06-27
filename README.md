@@ -2,7 +2,7 @@
 
 1.https://wokwi.com/projects/333796636268429907
 
- 2.RGB : https://wokwi.com/projects/333797944251646547
+ 2. : https://wokwi.com/projects/333797944251646547
 
 3.tempature & humadity sensor :https://wokwi.com/projects/334347223081943635
 INFROMATION

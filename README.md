@@ -34,6 +34,8 @@ https://wokwi.com/projects/334434595516711506
   11.ultrasonic sensor
   https://wokwi.com/projects/334439407312437842
   
+  
+  
  12. **  servo motor**
   https://wokwi.com/projects/334976724538229330
   
@@ -57,4 +59,6 @@ https://wokwi.com/projects/334978058200023635
   
   19.buzzer with different sounds
 https://wokwi.com/projects/335066652092662356
+20.buzzer with uv
+https://wokwi.com/projects/335613237736243794
   

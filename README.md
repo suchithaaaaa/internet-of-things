@@ -65,3 +65,7 @@ https://wokwi.com/projects/335613396042908243
 
 21.buzzer with led and ultrasonic
 https://wokwi.com/projects/335613483142873684
+
+**  22.potentiometer**
+https://wokwi.com/projects/335701881854624340
+

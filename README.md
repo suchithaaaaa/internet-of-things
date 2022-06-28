@@ -69,3 +69,6 @@ https://wokwi.com/projects/335613483142873684
 **  22.potentiometer**
 https://wokwi.com/projects/335701881854624340
 
+**  23.potentiometer with fade led**
+https://wokwi.com/projects/335702970231423572
+

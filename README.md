@@ -63,5 +63,5 @@ https://wokwi.com/projects/335066652092662356
 20.buzzer with ultrasonic for 20cm
 https://wokwi.com/projects/335613396042908243
 
-19.buzzer with led and uv
+19.buzzer with led and ultrasonic
 https://wokwi.com/projects/335613483142873684

@@ -74,6 +74,13 @@ https://wokwi.com/projects/335702970231423572
 
 **lab list program**
 ** 1**
-https://wokwi.com/projects/338771667625968210
+https://wokwi.com/projects/338771667625968210:-ESP32(LED/BUZZER)
+
+https://wokwi.com/projects/338770823644971603 :-Arduino(LED/BUZZER)
+
+3. https://wokwi.com/projects/338147082096345683 :-DHT22 ( humidity sensor and temperature).
+
+5. https://wokwi.com/projects/338154081559249491 :-DHT22+LCD(humidity sensor and temperature)
+
 
 

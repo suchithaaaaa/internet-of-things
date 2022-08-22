@@ -85,3 +85,45 @@ https://wokwi.com/projects/335702970231423572
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/104187589/185888329-391c50e2-5490-4030-8b2e-3a0d15620bc4.png)
+
+
+

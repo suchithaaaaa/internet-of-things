@@ -84,7 +84,7 @@ https://wokwi.com/projects/335702970231423572
 5.https://wokwi.com/projects/338154081559249491 (DHT22+LCD)
 
 
-**DHT11:-**
+3 **DHT11:-**
 **..................**
 
     #include <Adafruit_Sensor.h><br>

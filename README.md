@@ -259,6 +259,7 @@ int ldr=A0;//Set A0(Analog Input) for LDR.<br>
    }<br>
    delay(1000);<br>
  }<br>
+![image](https://user-images.githubusercontent.com/104187589/185892277-3ebd6063-a94a-41a0-b638-826a5b650690.png)<br>
  
  
 **flood monitoring system link:-**

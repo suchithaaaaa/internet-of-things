@@ -265,4 +265,7 @@ int ldr=A0;//Set A0(Analog Input) for LDR.<br>
 **flood monitoring system link:-**
 https://theiotprojects.com/iot-based-flood-monitoring-system-using-nodemcu-thingspeak/
 
+** implementation of the NTP**
+https://wokwi.com/projects/321525495180034642
+
 

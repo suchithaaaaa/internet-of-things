@@ -73,14 +73,15 @@ https://wokwi.com/projects/335701881854624340
 https://wokwi.com/projects/335702970231423572
 
 **lab list program**
-** 1**
-https://wokwi.com/projects/338771667625968210:-ESP32(LED/BUZZER)
+ 1.https://wokwi.com/projects/338227139367141971 (1. to turn LED on for 1 sec after every 2 sec)
 
-https://wokwi.com/projects/338770823644971603 :-Arduino(LED/BUZZER)
+2.https://wokwi.com/projects/338226711455859284 (2. turn on the LED when pushbutton is pressed)
 
-3. https://wokwi.com/projects/338147082096345683 :-DHT22 ( humidity sensor and temperature).
+3.https://wokwi.com/projects/338147082096345683 (DHT22 humidity sensor with temperature)
 
-5. https://wokwi.com/projects/338154081559249491 :-DHT22+LCD(humidity sensor and temperature)
+4.https://wokwi.com/projects/335705347315466835 (servomoter with pushbutton)
+
+5.https://wokwi.com/projects/338154081559249491 (DHT22+LCD)
 
 
 

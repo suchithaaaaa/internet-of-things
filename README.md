@@ -291,5 +291,8 @@ digitalWrite(pins[i], LOW); // switching the LED at index i off<br>
 <br>
 }<br>
 }<br>
+**Seven segment LED display example**
+https://wokwi.com/projects/342585580205376083
+
 
 

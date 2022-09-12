@@ -293,8 +293,13 @@ digitalWrite(pins[i], LOW); // switching the LED at index i off<br>
 }<br>
 **Seven segment LED display example**<br>
 https://wokwi.com/projects/342585580205376083<br>
-Analog Joystick with two axes (horizontal/vertical) and an integrated push button. Etch-a-sketch - A simple drawing game using a MAX7219 LED Dot Matrix Reference
-https://wokwi.com/projects/342586690057011795
-
-
+Analog Joystick with two axes (horizontal/vertical) and an integrated push button. Etch-a-sketch - A simple drawing game using a MAX7219 LED Dot Matrix Reference<br>
+https://wokwi.com/projects/342586690057011795<br>
+DHT22 on the ESP32 Reference:<br>
+https://wokwi.com/projects/322410731508073042<br>
+Display distance on LCD screen with buzzer and LED <br>
+reference 1 https://wokwi.com/projects/290056311044833800<br>
+reference 2 https://wokwi.com/projects/290043622233997832<br>
+Arduino LED Graph Bar - Move the potentiometer knob to control the LEDs Reference<br>
+https://wokwi.com/projects/342590852731765330<br>
 

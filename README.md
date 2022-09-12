@@ -293,6 +293,8 @@ digitalWrite(pins[i], LOW); // switching the LED at index i off<br>
 }<br>
 **Seven segment LED display example**<br>
 https://wokwi.com/projects/342585580205376083<br>
+Analog Joystick with two axes (horizontal/vertical) and an integrated push button. Etch-a-sketch - A simple drawing game using a MAX7219 LED Dot Matrix Reference
+https://wokwi.com/projects/342586690057011795
 
 
 
